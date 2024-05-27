@@ -1,3 +1,4 @@
 print('hello world yo')
-print('hi')
-print('hello world 3')
+print([])
+print([1,2,'3'])
+print('done')
